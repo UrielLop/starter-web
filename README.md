@@ -13,3 +13,7 @@ Sample website with plenty of files for demos. Some changes here
 more changes
 
 ##How to Contribute
+
+## Copyright
+2020 Git.Training
+
