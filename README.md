@@ -7,8 +7,9 @@ Adding introduction
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. Some changes here
 
 ##Deployment
+more changes
 
 ##How to Contribute
