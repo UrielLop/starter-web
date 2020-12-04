@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Uriel Lopez uriel.lopez @uriel
 
 # THANKS
 
